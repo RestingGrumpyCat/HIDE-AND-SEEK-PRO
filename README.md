@@ -1,0 +1,2 @@
+# HIDE-AND-SEEK-PRO
+A game involving 2 players, where the first player hides the object, marks its location using the pi, and returns the pi to the finding player. When ready, the finding player clicks the button and receives information based on their proximity to the object based on indicator lights. Once the second player has found the object, their roles are reversed and the process is repeated. The time taken by each player to find the object is written to an output file.
